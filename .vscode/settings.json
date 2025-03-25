@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "explorer.excludeGitIgnore": false,
+    "git.ignoreLegacyWarning": false,
+    "git.enabled": true,
+    "editor.codeActionsOnSave": {}
+}
